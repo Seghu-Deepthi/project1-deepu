@@ -3,7 +3,7 @@ import logo from './assets/investment-calculator-logo.png';
 function App() {
   const calculateHandler = (userInput) => {
     // Should be triggered when form is submitted
-    // You might not directly want to bind it to the submit event on the form though...
+    // You might not directly want to bind it to the submit event on the form though
 
     const yearlyData = []; // per-year results
 
